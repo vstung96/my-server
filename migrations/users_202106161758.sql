@@ -1,0 +1,2 @@
+INSERT INTO testdb.dbo.users (username,identification_secret,full_name,full_name_ascii,email,createdAt,updatedAt) VALUES
+	 ('admin','admin123','Vũ Sỹ Tùng','Vu Sy Tung','tung@mail.com','2012-06-18 10:34:09.0','2012-06-18 10:34:09.0');
